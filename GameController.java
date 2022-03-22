@@ -158,6 +158,9 @@ public class GameController {
                 else
                     System.out.println("Ой, не хватает денег");
                 break;
+            default:
+                System.out.println("Неверно введена цифра. Возможный ввод:0,1,2,3");
+                System.out.printf("Способность персонажа %s не выбрана\n ", character.getName());
         }
     }
 

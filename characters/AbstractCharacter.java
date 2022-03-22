@@ -2,7 +2,7 @@ package com.company.characters;
 
 import com.company.skills.Skill;
 
-public abstract class AbstractCharacter {
+public abstract class AbstractCharacter {// абсрактный класс, который помогает расписать способности персонажей
 
     protected String name;
     protected Skill firstSkill;

@@ -2,7 +2,7 @@ package com.company.races;
 
 import com.company.characters.AbstractCharacter;
 
-public abstract class AbstractRace {
+public abstract class AbstractRace {//абстрактный класс для создания рас( в каждой расе по 3 персонажа)
     protected String name;
     protected int money = 45;
     protected AbstractCharacter character1;
@@ -38,8 +38,12 @@ public abstract class AbstractRace {
 
     public void print() {
         System.out.println(name);
+        System.out.println("\n");
         character1.print();
+        System.out.println("\n");
         character2.print();
+        System.out.println("\n");
         character3.print();
+        System.out.println("\n");
     }
 }

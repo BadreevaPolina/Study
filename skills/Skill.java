@@ -1,6 +1,6 @@
 package com.company.skills;
 
-public class Skill {
+public class Skill { // данные о способностях
     protected String name;
     protected String description;
     protected int damage;
