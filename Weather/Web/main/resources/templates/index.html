@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8" />
+    <title> Гистограмма </title>
+    <script src="https://cdn.bootcss.com/echarts/4.6.0/echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1000px;height:400px;"></div>
+</body>
+<script type="text/javascript">
+    let myChart = echarts.init(document.getElementById('main'));
+    let option = {
+        title: {
+                         текст: 'Гистограмма'
+        },
+        tooltip: {},
+        xAxis: {
+            data: ['Сайт1', 'Сайт2', 'Сайт3', 'Сайт(исх)', 'Регрессия']
+        },
+        yAxis: {},
+        series: [{
+            data: [13, 9, 14 , 13, 13],// тут должны были быть данные из класса Weather
+            type: 'line'
+        }]
+    };
+    myChart.setOption(option);
+</script>
+</html>
