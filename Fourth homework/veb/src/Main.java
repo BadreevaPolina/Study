@@ -3,6 +3,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.InputStreamReader;
@@ -17,17 +18,15 @@ public class Main {
                 Document v = Jsoup.connect("https://www.gismeteo.ru/weather-sankt-peterburg-4079/").userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
                 Elements veb1 = null, veb2 = null, veb3 = null, veb = null;
                 try {
-                    veb1 = v1.select("div._1HBR");
+                    veb1 = v1.select("div.aLlQ");
                     veb2 = v2.select("div.temperature");
                     veb3 = v3.select("div.ArchiveTemp");
                     veb = v.select("div.weather-value");
-                    String site1 = veb1.first().text(), site2 = veb2.text(), site3 = veb3.text(), ex = veb.text();
-                    System.out.println(Parse(ex));
-                    System.out.println(Parse(site1));
-                    System.out.println(Parse(site2));
-                    System.out.println(Parse(site3));
 
-                     int[] info = new int[5];
+                    String site1 = veb1.text(), site2 = veb2.text(), site3 = veb3.text(), ex = veb.text();
+
+
+                    int[] info = new int[5];
                     info[0] = Parse(ex);
                     info[1] = Parse(site1);
                     info[2] = Parse(site2);
@@ -38,7 +37,7 @@ public class Main {
                     GrGis gr = new GrGis("Гистограмма",info);
                     gr.setVisible(true);
 
-                } catch (Throwable cause) {
+                } catch (Throwable cause ) {
                     cause.printStackTrace();
                 }
             }
