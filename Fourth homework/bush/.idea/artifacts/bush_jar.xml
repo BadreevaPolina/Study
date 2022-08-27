@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bush:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bush_jar</output-path>
+    <root id="archive" name="bush.jar">
+      <element id="module-output" name="bush" />
+    </root>
+  </artifact>
+</component>
