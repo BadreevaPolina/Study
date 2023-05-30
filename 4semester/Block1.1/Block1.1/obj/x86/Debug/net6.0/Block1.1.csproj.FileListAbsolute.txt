@@ -1,0 +1,15 @@
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\bin\x86\Debug\net6.0\Block1.1.exe
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\bin\x86\Debug\net6.0\Block1.1.deps.json
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\bin\x86\Debug\net6.0\Block1.1.runtimeconfig.json
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\bin\x86\Debug\net6.0\Block1.1.dll
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\bin\x86\Debug\net6.0\Block1.1.pdb
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.csproj.AssemblyReference.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.AssemblyInfoInputs.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.AssemblyInfo.cs
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.csproj.CoreCompileInputs.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.dll
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\refint\Block1.1.dll
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.pdb
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\Block1.1.genruntimeconfig.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1\obj\x86\Debug\net6.0\ref\Block1.1.dll

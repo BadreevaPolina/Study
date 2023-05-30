@@ -1,0 +1,6 @@
+C:\Users\BadPD\source\repos\Block1.1\Block1.1.tests\obj\Debug\net6.0\Block1.1.tests.csproj.AssemblyReference.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1.tests\obj\Debug\net6.0\Block1.1.tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BadPD\source\repos\Block1.1\Block1.1.tests\obj\Debug\net6.0\Block1.1.tests.AssemblyInfoInputs.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1.tests\obj\Debug\net6.0\Block1.1.tests.AssemblyInfo.cs
+C:\Users\BadPD\source\repos\Block1.1\Block1.1.tests\obj\Debug\net6.0\Block1.1.tests.csproj.CoreCompileInputs.cache
+C:\Users\BadPD\source\repos\Block1.1\Block1.1.tests\bin\Debug\net6.0\CoverletSourceRootsMapping

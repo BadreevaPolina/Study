@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Block1.2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\BadPD\\source\\repos\\Block1.2\\Block1.2\\unsorted1.dat\""
+    },
+    "MPIExec": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Microsoft MPI\\Bin\\mpiexec.exe",
+      "commandLineArgs": "-n 4  C:\\Users\\BadPD\\source\\repos\\Block1.2\\Block1.2\\bin\\Debug\\net6.0\\Block1.2.exe C:\\Users\\BadPD\\source\\repos\\Block1.2\\Block1.2\\unsorted1.dat C:\\Users\\BadPD\\source\\repos\\Block1.2\\Block1.2\\answer.dat",
+      "workingDirectory": "C:\\Users\\BadPD\\source\\repos\\Block1.2\\Block1.2\\bin\\Debug\\net6.0\\",
+      "nativeDebugging": false
+    }
+  }
+}
