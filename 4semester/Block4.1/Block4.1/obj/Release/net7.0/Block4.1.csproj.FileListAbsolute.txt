@@ -1,0 +1,15 @@
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.csproj.AssemblyReference.cache
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.AssemblyInfoInputs.cache
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.AssemblyInfo.cs
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.csproj.CoreCompileInputs.cache
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\bin\Release\net7.0\Block4.1.exe
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\bin\Release\net7.0\Block4.1.deps.json
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\bin\Release\net7.0\Block4.1.runtimeconfig.json
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\bin\Release\net7.0\Block4.1.dll
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\bin\Release\net7.0\Block4.1.pdb
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.dll
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\refint\Block4.1.dll
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.pdb
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\Block4.1.genruntimeconfig.cache
+C:\Users\BadPD\source\repos\Block4.1\Block4.1\obj\Release\net7.0\ref\Block4.1.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Block4.1.WPF/1.0.0": {
+        "dependencies": {
+          "Block4.1": "1.0.0"
+        },
+        "runtime": {
+          "Block4.1.WPF.dll": {}
+        }
+      },
+      "Block4.1/1.0.0": {
+        "runtime": {
+          "Block4.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Block4.1.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Block4.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
